@@ -45,3 +45,4 @@ Clone the repository and install the required dependencies for the client and se
 ## First Vertical Feature Slice
 
 The first feature slice will cover an accessible dashboard component from the user interface through the server/API layer, with accessibility tests included in the test directory.
+
